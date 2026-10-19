@@ -1,0 +1,11 @@
+[
+  {
+    "id": "demo-histology",
+    "title": "デモ教材：組織様画像",
+    "organ": "デモ画像（実際の症例ではありません）",
+    "stain": "デモ染色",
+    "magnification": "合成画像・高解像度表示テスト",
+    "description": "GitHub Pagesとビューアーの動作確認用です。実際の教材を追加するときは、この説明とDZIパスを変更してください。",
+    "dzi": "./images/demo.dzi"
+  }
+]
